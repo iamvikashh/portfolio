@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Graduated from Army Public Scool, Gwalior', },
-  { year: 2021, text: 'Completed an internship in The Sparks Foundation as a data science and business analyst', },
-  { year: 2021, text: 'Completed an internship Internshala on machince learning', },
-  { year: 2022, text: 'Minor degree in Data Science', },
-  { year: 2023, text: 'Graduated from Amity University, Gwalior, M.p', },
+  { year: 2020, text: 'Graduated from Amity University Madhya Pradesh', },
+  { year: 2020, text: 'Joined MediTab Inc. as Software Developer', },
+  { year: 2021, text: 'Joined Jio Platforms as an Android Developer', },
+  { year: 2022, text: 'Joined Karza Tech as an Android Developer', },
+  { year: 2023, text: 'Gained experience in Web RTC and started freelancing', },
 ];

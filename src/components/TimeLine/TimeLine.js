@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a fresher and i recently graduated from Amity University Gwalior, M.P.  Apart from my technologicial skills, i am good at putting efforts and getting work done before hand so i can utilize more time in solving other problems and build up my skills which will be useful for any organization.
+      I am Software Developer with expertise industrial experience in Mobile application. Apart from my technical skills, i am good at putting efforts and getting work done before hand so i can utilize more time in solving other problems and build up my skills which will be useful for any organization.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

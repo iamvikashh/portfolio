@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiReact, DiZend, DiJava } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js and Flutter
+            React.js, Flutter Android Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node, Express, Firebase, AWS, 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -45,6 +45,17 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             tools like Figma
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+        <DiJava size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Languages</ListTitle>
+          <ListParagraph>
+            Java, Kotlin, C/C++, Dart, JavaScript, Python
           </ListParagraph>
         </ListContainer>
       </ListItem>

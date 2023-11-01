@@ -19,10 +19,11 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center> 
           Hey, This is <br />
-          Himanshu Bhadoria
+          Vikash Tomar
           </SectionTitle>
         <SectionText>
-        I am a Front-End developer with hands on skills in making user interfaces for web and android applications.
+        I am a Software Developer with expertise and half a decade experience in Mobile Application Development. <br/>
+        iOS/Android
         </SectionText>
         <div classname="button">
         <a href="/resume.pdf" download="resume.pdf">
